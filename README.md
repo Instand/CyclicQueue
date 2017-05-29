@@ -1,2 +1,2 @@
 # CyclicQueue
-CyclicQueue is STL like conainer
+CyclicQueue is STL like container
